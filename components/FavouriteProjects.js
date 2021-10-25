@@ -73,12 +73,12 @@ export default function FavouriteProjects() {
             </div>
           </a>
           {/* Single card */}
-          <a
+          {/* <a
             href="https://www.temuexpert.com/"
             className="w-full block col-span-3 sm:col-span-1  object-cover"
           >
-            <div className="relative overflow-hidden shadow-2xl">
-              {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
+            <div className="relative overflow-hidden shadow-2xl"> */}
+              {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div>
               <img
                 src="/temu-expert.png"
                 alt="portfolio"
@@ -91,7 +91,7 @@ export default function FavouriteProjects() {
                 03
               </h1>
             </div>
-          </a>
+          </a> */}
         </div>
       </div>
     </div>
