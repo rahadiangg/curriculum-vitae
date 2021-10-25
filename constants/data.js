@@ -17,11 +17,11 @@ const userData = {
       link: "https://choolifahscool.com",
       imgUrl: "/choolifah.png",
     },
-    // {
-    //   title: "Temu Exprt",
-    //   link: "https://www.temuexpert.com/",
-    //   imgUrl: "/temu-expert.png",
-    // },
+    {
+      title: "Temu Expert",
+      link: "https://www.temuexpert.com/",
+      imgUrl: "/temu-expert.png",
+    },
     {
       title: "Santren Koding Website",
       link: "https://santrenkoding.org/",
