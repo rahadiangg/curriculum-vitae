@@ -35,17 +35,17 @@ export default function FavouriteProjects() {
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
           {/* Single card */}
           <a
-            href="https://azuralabs.id"
+            href="https://haitoko.com/"
             className="w-full block col-span-3 shadow-2xl"
           >
             <div className="relative overflow-hidden">
               <img
-                src="/tmk.jpg"
+                src="/haitoko.png"
                 alt="portfolio"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-yellow-500 rounded-md px-2">
-                Azura Labs Website
+                HaiToko
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-400 font-bold text-xl">
                 01
@@ -54,18 +54,18 @@ export default function FavouriteProjects() {
           </a>
           {/* Single card */}
           <a
-            href="https://choolifahschool.com"
+            href="https://www.first-resources.com/"
             className="w-full block col-span-3  sm:col-span-2 shadow-2xl"
           >
             <div className="relative overflow-hidden">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/choolifah.png"
+                src="/fr.png"
                 alt="portfolio"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-yellow-500 rounded-md px-2">
-                Choolifah School
+                First Resources
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-400 font-bold text-xl">
                 02
@@ -74,18 +74,18 @@ export default function FavouriteProjects() {
           </a>
           {/* Single card */}
           <a
-            href="https://www.temuexpert.com/"
+            href="http://rsigm.unissula.ac.id/"
             className="w-full block col-span-3 sm:col-span-1  object-cover"
           >
             <div className="relative overflow-hidden shadow-2xl">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/temu-expert.png"
+                src="/rsigm.png"
                 alt="portfolio"
                 className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-yellow-500 rounded-md px-2">
-                Temu Expert
+                SIMRS - RSIGM
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 03

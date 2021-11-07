@@ -41,10 +41,10 @@ export default function AboutMe() {
                 >
                   mail
                 </a>{" "}
-                and I'll get back. I swear.
+                and I'll get back. I swear 😗.
               </p>
             </div>
-            <div className="mt-8">
+            {/* <div className="mt-8">
               <h1 className="text-xl font-semibold text-gray-700 dark:text-gray-200">
                 Job Opportunities
               </h1>
@@ -60,7 +60,7 @@ export default function AboutMe() {
                 </a>{" "}
                 and I'd love to work for you.
               </p>
-            </div>
+            </div> */}
             {/* Social Links */}
             <h1 className="text-xl font-semibold text-gray-700 mt-8 dark:text-gray-200">
               Social Links
@@ -78,7 +78,7 @@ export default function AboutMe() {
                   </p>
                 </a>
               </div>
-              <div className="flex flex-row justify-start items-center">
+              {/* <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.twitter}
                   className="flex flex-row items-center space-x-4 group"
@@ -89,7 +89,7 @@ export default function AboutMe() {
                     Twitter
                   </p>
                 </a>
-              </div>
+              </div> */}
               <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.github}
@@ -116,7 +116,7 @@ export default function AboutMe() {
               </div>
               <div className="flex flex-row justify-start items-center">
                 <a
-                  href={userData.socialLinks.twitter}
+                  href={userData.socialLinks.instagram}
                   className="flex flex-row items-center space-x-4 group"
                 >
                   <div className="my-4">&rarr;</div>
